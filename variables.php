@@ -28,7 +28,6 @@
 
     echo "Online status: {$online}<br>";
 
-
     echo "You have ordered {$quantity} x {$food}s <br>";
 
     $total = $quantity * $price;
